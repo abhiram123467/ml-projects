@@ -1,3 +1,2 @@
 # ml-projects
-folder for ml projects
-begin my ml projects journey
+this is my 1st ml project
